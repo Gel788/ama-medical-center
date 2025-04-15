@@ -1381,3 +1381,13 @@
 2025-04-15T15:16:37.235459Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/next.config.js")}
 2025-04-15T15:16:37.235467Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
 2025-04-15T15:16:37.245034Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-15T15:18:38.132138Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2025-04-15T15:18:38.132176Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-04-15T15:18:38.431839Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2025-04-15T15:18:38.431854Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-04-15T15:18:38.830960Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("package.json")}
+2025-04-15T15:18:38.830970Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-04-15T15:18:42.031856Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("turbo.json")}
+2025-04-15T15:18:42.031863Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-04-15T15:18:47.432615Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("render.yaml")}
+2025-04-15T15:18:47.432639Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
