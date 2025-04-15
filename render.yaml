@@ -10,5 +10,7 @@ services:
         value: production
       - key: PORT
         value: 10000
+      - key: NEXT_TELEMETRY_DISABLED
+        value: 1
     healthCheckPath: /
     autoDeploy: true 

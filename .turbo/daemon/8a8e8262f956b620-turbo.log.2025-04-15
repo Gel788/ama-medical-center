@@ -1412,3 +1412,19 @@
 2025-04-15T15:23:01.825853Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/dashboard/DashboardLayout.tsx")}
 2025-04-15T15:23:01.825863Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("ama-medical-center-client"), path: AnchoredSystemPathBuf("client") }}))
 2025-04-15T15:23:01.886486Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-15T15:24:40.222864Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/next.config.js")}
+2025-04-15T15:24:40.222891Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("ama-medical-center-client"), path: AnchoredSystemPathBuf("client") }}))
+2025-04-15T15:24:40.410398Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/next.config.js")}
+2025-04-15T15:24:40.410407Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("ama-medical-center-client"), path: AnchoredSystemPathBuf("client") }}))
+2025-04-15T15:24:40.410422Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-15T15:24:50.922545Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/package.json")}
+2025-04-15T15:24:50.922562Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("ama-medical-center-client"), path: AnchoredSystemPathBuf("client") }}))
+2025-04-15T15:24:51.022385Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/package.json")}
+2025-04-15T15:24:51.022394Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("ama-medical-center-client"), path: AnchoredSystemPathBuf("client") }}))
+2025-04-15T15:24:51.079304Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-15T15:24:58.622237Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("render.yaml")}
+2025-04-15T15:24:58.622254Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-15T15:24:58.723036Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("render.yaml")}
+2025-04-15T15:24:58.723056Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-04-15T15:24:59.922852Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("render.yaml")}
+2025-04-15T15:24:59.922861Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
