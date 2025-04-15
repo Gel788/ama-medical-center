@@ -1491,3 +1491,16 @@
 2025-04-15T15:36:06.926803Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/layout/DashboardLayout.tsx")}
 2025-04-15T15:36:06.926812Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("ama-medical-center-client"), path: AnchoredSystemPathBuf("client") }}))
 2025-04-15T15:36:07.001193Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-15T15:42:01.798074Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/appointment.tsx")}
+2025-04-15T15:42:01.798114Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("ama-medical-center-client"), path: AnchoredSystemPathBuf("client") }}))
+2025-04-15T15:42:02.297086Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/appointment.tsx")}
+2025-04-15T15:42:02.297104Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("ama-medical-center-client"), path: AnchoredSystemPathBuf("client") }}))
+2025-04-15T15:42:02.360536Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-15T15:42:11.397475Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/index.tsx")}
+2025-04-15T15:42:11.397493Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("ama-medical-center-client"), path: AnchoredSystemPathBuf("client") }}))
+2025-04-15T15:42:11.496944Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/index.tsx")}
+2025-04-15T15:42:11.496953Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("ama-medical-center-client"), path: AnchoredSystemPathBuf("client") }}))
+2025-04-15T15:42:11.574334Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-04-15T15:42:12.196966Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/index.tsx")}
+2025-04-15T15:42:12.196975Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("ama-medical-center-client"), path: AnchoredSystemPathBuf("client") }}))
+2025-04-15T15:42:12.236683Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
