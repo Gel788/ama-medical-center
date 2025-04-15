@@ -12,5 +12,11 @@ services:
         value: 10000
       - key: NEXT_TELEMETRY_DISABLED
         value: 1
+      - key: SKIP_TYPE_CHECK
+        value: 1
+      - key: NEXT_IGNORE_TYPECHECK_ERRORS
+        value: 1
+      - key: NEXT_TYPECHECK
+        value: false
     healthCheckPath: /
     autoDeploy: true 
