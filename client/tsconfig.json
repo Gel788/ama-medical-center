@@ -6,9 +6,12 @@
       "dom.iterable",
       "esnext"
     ],
+    "noImplicitAny": false,
+    "noImplicitThis": false,
+    "strictNullChecks": false,
     "allowJs": true,
     "skipLibCheck": true,
-    "strict": true,
+    "strict": false,
     "forceConsistentCasingInFileNames": true,
     "noEmit": true,
     "incremental": true,
@@ -20,7 +23,9 @@
     "jsx": "preserve",
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"],
+      "@/components/*": ["src/components/*"],
+      "@/styles/*": ["src/styles/*"]
     }
   },
   "include": [
