@@ -4,19 +4,11 @@ services:
     env: node
     rootDir: client
     buildCommand: npm install && npm run build
-    startCommand: npm run start
+    startCommand: npm start
     envVars:
       - key: NODE_ENV
         value: production
       - key: PORT
         value: 10000
-      - key: NEXT_TELEMETRY_DISABLED
-        value: 1
-      - key: SKIP_TYPE_CHECK
-        value: 1
-      - key: NEXT_IGNORE_TYPECHECK_ERRORS
-        value: 1
-      - key: NEXT_TYPECHECK
-        value: false
     healthCheckPath: /
     autoDeploy: true 
